@@ -1,8 +1,8 @@
 import webview
 
 webview.create_window(
-    "HarmonyCMS Control Panel",
-    "https://cpanel.harmonycms.ir",
+    "Forchat نرم افزاری برای چت آسان",
+    "https://forchat.ir",
     width=1024,
     height=768
 )
